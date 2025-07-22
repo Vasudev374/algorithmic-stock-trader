@@ -13,6 +13,10 @@ An AI-based automated stock trading system that uses **LSTM architecture**, **Fa
 -  Scikit-learn MinMaxScaler for consistent scaling
 -  Organized project structure and environment control
 
+- ## Architecture Overview
+
+- 
+
 -  ---
 
 ##  How It Works
@@ -25,6 +29,15 @@ An AI-based automated stock trading system that uses **LSTM architecture**, **Fa
 4. **n8n** workflows can hit these endpoints to automate paper-trading logic
 
 ---
+
+##  Setup Instructions
+
+> Prerequisite: Python 3.10+ and a virtual environment (`venv` or `conda`) recommended.
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Vasudev374/algorithmic-stock-trader.git
+   cd algorithmic-stock-trader
 _
 ##  API Usage
 
