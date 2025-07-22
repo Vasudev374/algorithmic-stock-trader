@@ -14,8 +14,8 @@ An AI-based automated stock trading system that uses **LSTM architecture**, **Fa
 -  Organized project structure and environment control
 
 - ## Architecture Overview
+- ![Architecture Diagram](Architecture.png)
 
-- 
 
 -  ---
 
