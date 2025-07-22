@@ -75,6 +75,12 @@ source .venv/bin/activate  # On Mac/Linux
    uvicorn main:app --reload
 
 ---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
    
 
 _
