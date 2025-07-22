@@ -16,6 +16,18 @@ An AI-based automated stock trading system that uses **LSTM architecture**, **Fa
 - ## Architecture Overview
 - ![Architecture Diagram](Architecture.png)
 
+- ## Project Structure
+
+- nvda-trader/
+├── .venv/ # Virtual environment (not tracked by Git)
+├── main.py # Main FastAPI server with ML endpoints
+├── retrain_model.py # Script to retrain LSTM model dynamically
+├── nvda_lstm_model.h5 # Trained LSTM model
+├── requirements.txt # Python package dependencies
+├── README.md # Project documentation
+├── architecture.png # System architecture image
+└── .gitignore # Git ignore rules
+
 
 -  ---
 
